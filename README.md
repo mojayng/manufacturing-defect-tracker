@@ -37,3 +37,11 @@ visualize quality control insights.
 
 ## Dashboard Preview
 ![Manufacturing Defect Tracker Dashboard](dashboard.png)
+
+## SQL Queries
+| File | Description |
+|------|-------------|
+| `create_database.sql` | Creates all tables and inserts sample data |
+| `defect_rate_by_machine.sql` | Calculates defect rate per machine |
+| `defect_rate_by_shift.sql` | Calculates defect rate per shift |
+| `monthly_defect_trend.sql` | Aggregates defects by month |
