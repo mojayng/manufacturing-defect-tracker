@@ -1,0 +1,25 @@
+﻿CNC Mill A,2024-01-08,500,Surface Scratch,5
+CNC Mill A,2024-01-08,500,Dimension Error,2
+CNC Mill A,2024-01-08,480,Surface Scratch,8
+CNC Mill B,2024-01-08,520,Misalignment,3
+CNC Mill B,2024-01-08,390,Surface Scratch,12
+CNC Mill B,2024-01-08,390,Dimension Error,6
+Lathe X1,2024-01-09,450,Surface Scratch,4
+Lathe X1,2024-01-09,470,Misalignment,7
+Lathe X2,2024-01-09,510,Dimension Error,3
+Lathe X2,2024-01-09,420,Surface Scratch,15
+Lathe X2,2024-01-09,420,Misalignment,5
+Press 01,2024-01-10,600,Dimension Error,2
+Press 01,2024-01-10,350,Surface Scratch,18
+Press 01,2024-01-10,350,Misalignment,9
+CNC Mill A,2024-01-15,490,Surface Scratch,6
+CNC Mill B,2024-01-15,505,Dimension Error,4
+Lathe X1,2024-01-15,410,Surface Scratch,11
+Lathe X2,2024-01-16,530,Misalignment,2
+Press 01,2024-01-16,580,Dimension Error,3
+CNC Mill A,2024-02-01,460,Surface Scratch,9
+CNC Mill B,2024-02-01,515,Misalignment,4
+Lathe X1,2024-02-02,495,Surface Scratch,7
+Lathe X2,2024-02-02,405,Dimension Error,8
+Lathe X2,2024-02-02,405,Surface Scratch,13
+Press 01,2024-02-03,620,Misalignment,3
