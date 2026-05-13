@@ -34,3 +34,6 @@ visualize quality control insights.
 - Bar chart: Total defects by shift
 - Line chart: Defect trend by month
 - KPI card: Total defects
+
+## Dashboard Preview
+![Manufacturing Defect Tracker Dashboard](dashboard.png)
